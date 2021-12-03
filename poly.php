@@ -48,4 +48,17 @@ echo "<hr>";
 $bola_basket = new basket(18);
 echo $bola_basket->hitung_bola();
 echo cetak_detail_bola($bola_basket);
+
+echo "<hr>";
+echo " TI (B) nama kelompok  :" ;
+echo "<br>";
+echo " Ridwan adi pratama"  ;
+echo "<br>";
+echo "Farikh F"  ;
+echo "<br>";
+echo "M.nurizki"  ;
+echo "<br>";
+echo "elki ismuhamdan" ;
+echo "<br>";
+echo  "rafsanjani" ;
 ?>
